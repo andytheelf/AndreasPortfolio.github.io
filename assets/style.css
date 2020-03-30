@@ -303,33 +303,27 @@ header nav ul li a {
     grid-template-rows: 1fr 1fr;
 }
 
-.project.run-buddy {
+.project.run-buddy h5, h6 {
     writing-mode: vertical-lr;
-    transform: rotate(180deg);
 }
 
-.project.exmp-2 {
+.project.exmp-2 h5, h6 {
     writing-mode: vertical-lr;
-    transform: rotate(180deg);
 }
 
-.project.exmp-4 {
+.project.exmp-4 h5, h6 {
     writing-mode: vertical-lr;
-    transform: rotate(180deg);
 }
 
-.project.exmp-5 {
+.project.exmp-5 h5, h6 {
     font-size: .2rem;
     justify-content: space-evenly;
     writing-mode: vertical-lr;
-    transform: rotate(180deg);
 }
 
-.project.exmp-3 {
+.project.exmp-3 h5, h6 {
    justify-content: space-around; 
-   font-size: .5rem;
    writing-mode: vertical-lr;
-    transform: rotate(180deg);
     text-align: center;
 
 }
